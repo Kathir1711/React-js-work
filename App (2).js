@@ -6,19 +6,19 @@ class App extends React.Component{
       data:
       [
         {
-          "name":"Arshath:Holt"
+          "name":"noah:Holt"
         },
         {
-          "name":"Arun:AD"
+          "name":"kdragul:AD"
         },
         {
-          "name":"Jaisurya:Frank"
+          "name":"dhanya:Frank"
         },
         {
-          "name":"Adityan:Murugan"
+          "name":"kathir:Murugan"
         },
         {
-          "name":"Aakash:Hash"
+          "name":"anu:Hash"
         }
       ]
     }
