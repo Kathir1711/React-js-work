@@ -35,7 +35,7 @@ Prerequisites
 Node.js and npm installed on your machine.
 Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Kathir1711/react-js-works.git
 Navigate to the project directory:
 cd your-repository
 Install dependencies:
