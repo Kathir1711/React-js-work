@@ -1,6 +1,6 @@
 React Experience
 
- Hands-On Training with Yardstick Academy
+Hands-On Training with Yardstick Academy
 
 I have completed extensive hands-on training in front-end development with React.js through Yardstick Academy. This training allowed me to deeply explore the following areas:
 
