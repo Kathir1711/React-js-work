@@ -20,4 +20,4 @@ Project Showcase: Contributed to a front-end project where I applied React.js to
 Feel free to check out my repositories for examples of my work and the skills I’ve applied during this training.
 
 ---
-Thank you 
+Thank you...
