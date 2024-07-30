@@ -1,6 +1,3 @@
-work that had done on react JS frontend web development hand on training
-
-
 React Experience
 
  Hands-On Training with Yardstick Academy
